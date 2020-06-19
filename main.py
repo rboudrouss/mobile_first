@@ -38,7 +38,7 @@ class DemoApp(MDApp):
 
         # button
         button = MDFlatButton(
-            text='fromage'
+            text='fromage',
         )
         screen1.add_widget(button)
         
